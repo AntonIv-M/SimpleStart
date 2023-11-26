@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>S_Start</title>
+    <link rel="stylesheet" href="simple.css">
+
+</head>
+<body>
+    <header class="head">
+        
+        <img src="img/BIRD.svg" alt="ТВИТЕР">
+        <img src="img/FACE.svg" alt="ФЭЙС">
+        
+    </header>
+    <div class="container">
+        
+        <aside class="sidebar">
+            <img src="img/YOURLOGO.svg" alt="лого">
+            <ul class=>
+             <li> HOME</li>
+             <li> ITEM 1</li>
+             <li> ITEM 2</li> 
+             <li> ITEM 3</li>
+             <li> ITEM 4</li> 
+             <li> ITEM 5</li>
+
+             <li> SUPPORT</li>
+             <li> CONTACT</li> 
+      
+             <li> ©2020 ACME LLC.</li>
+           </ul>
+        </aside>
+    
+        <h1>SIMPLE STARTER
+              TEMPLATE 
+        </h1>
+
+    
+        <main class="content"> A clean simple desktop design with space to add & alter items instead of removing them. An easy to use starting point for beginners to make mockups or designs that look nice, quickly.    
+        </main>
+
+        <a href="simple.html">LEARN MORE</a>
+
+        <aside class="pic">
+
+        <img src="img/PIC1.png" alt="">
+        <img src="img/PIC2.png" alt="">
+        <img src="img/PIC3.png" alt="">
+        <img src="img/PIC4.png" alt="">
+
+        </aside>
+     
+
+        <h2> NEWS </h2>
+        <img src="img/TRINAGLE.svg" alt="Треугольник">
+
+        <aside>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc accumsan sed diam ut consectetur. Nunc maximus magna dolor, eget accumsan leo tempor eget.
+
+        </aside>
+    </div>
+
+</body>
+</html>

@@ -1,0 +1,120 @@
+*{box-sizing:border-box;}
+body{
+    background:  url(img/BG.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    
+}
+*{
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    font-family:"Oswald";}
+
+
+
+.wrapper {
+    display: flex;
+    width: 1440px;
+    margin: 0 auto;
+}
+
+
+.HEAD {position: absolute;
+    right: 200px;
+    background-color: #A276FF;
+    border-radius:0px 0px 20px 20px;
+    padding:20px 40px 20px 40px;
+    line-height: 30px;  
+   }
+.HEAD:hover {background-color: #f2c94c;}
+
+.SBAR{
+    width: 350px; 
+    background-color: rgba(0, 0, 0, 0.323);
+    width:auto;
+    text-align: center;
+    padding: 70 px 50 px 100 px 50px;
+}
+
+
+.meny{list-style-type: none;}
+.bottom_meny {list-style-type: none;}
+
+.CONTENT{
+    width: 1090px;
+    height: 100%;
+    float:left;
+    max-width: autopx;
+    max-height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+h1{
+    font-size:56px ;
+}
+h2{
+    font-size: 100px;
+    color: #A276FF;
+}
+h2:hover {color: #f2c94c;}
+
+h3{
+    font-size: 42px;
+}
+.button {
+    text-decoration: none;
+    border: 3px solid #fff ;
+    padding:20px 100px 20px 100px;
+    text-decoration: none;
+    color: #fff;
+    line-height: 70px;
+
+    font-family:Arial, Helvetica, sans-serif;
+    border-radius:  17px; ;
+}
+
+.button:hover {border: 3px solid #f2c94c;
+}
+
+
+
+
+
+.HOME {color: #A276FF;
+    text-decoration: none;
+}
+.HOME:hover {color: #f2c94c;
+}   
+.ITEM {text-decoration: none;
+}
+.ITEM:hover {color: #f2c94c;
+}
+
+
+.pic1 {border: 6px solid  #fff;
+    border-radius: 15px;
+    
+}
+.pic1:hover{border: 6px solid #f2c94c ;}
+
+.pic2 {border: 6px solid  #fff;
+    border-radius: 15px;
+    
+}
+.pic2:hover{border: 6px solid #f2c94c ;}
+
+.pic3 {border: 6px solid  #fff;
+    border-radius: 15px;
+    
+}
+.pic3:hover{border: 6px solid #f2c94c ;}
+
+.pic4 {border: 6px solid  #fff;
+    border-radius: 15px;
+    
+}
+.pic4:hover{border: 6px solid #f2c94c ;}
+
